@@ -3,3 +3,4 @@ Foobar
 This is hotfix!!!
 Yes, we can
 Lorem ispum
+dolor sit amet
